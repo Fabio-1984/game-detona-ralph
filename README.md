@@ -25,7 +25,6 @@
 
 <h2>Créditos</h2>
    <p>Este jogo foi desenvolvido como parte de um projeto educacional da Digital Innovation One.</p>
-_____________________________________________________________________________________________________________________________
 
 <h2>Layout do jogo:</h2>
 
